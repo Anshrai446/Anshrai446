@@ -1,12 +1,53 @@
-- 👋 Hi, I’m @Anshrai446
-- 👀 I’m interested in learning new technology...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Ansh Rai
 
-<!---
-Anshrai446/Anshrai446 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Aspiring AI Engineer | Backend Developer | Problem Solver
+
+---
+
+## 💡 About Me
+
+* 🎯 Building **AI-powered real-world projects**
+* 🧠 Currently learning: **Flask, React, AI APIs**
+* 🔥 Focused on: **Full-stack + AI integration**
+* 📈 Goal: Crack top tech internships with strong projects
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Job Application Copilot *(In Progress)*
+
+* AI-powered resume analysis + job matching
+* Tech: Python, Flask, React, Gemini API
+* 🔗 (Add link after pushing)
+
+### 💰 Finance Tracker (AI Powered)
+
+* Smart expense tracking + insights
+* Tech: Java, MySQL, Gemini API
+
+### 📚 Library Management System
+
+* Full CRUD system with database integration
+* Tech: Java
+
+---
+
+## 🛠 Tech Stack
+
+* 💻 Languages: Python, Java
+* 🌐 Web: HTML, CSS, React (learning)
+* ⚙️ Backend: Flask (learning)
+* 🧠 AI Tools: Gemini API
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Anshrai446\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: [anshrai446@gmail.com](mailto:anshrai446@gmail.com)
